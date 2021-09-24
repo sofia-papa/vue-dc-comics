@@ -57,7 +57,7 @@
             </div>
         </div>
 
-        
+
     </div>
 </template>
 
@@ -99,6 +99,11 @@ ul {
 .img-big img{ 
     display: flex;
     height: 400px;
+}
+
+.sign-up-now{
+    background-color: $secondaryColor;
+    height: 200px;
 }
 
 }
