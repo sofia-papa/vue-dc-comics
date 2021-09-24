@@ -32,6 +32,13 @@ export default {
 <style lang="scss" scoped>
 @import "../style/variables.scss";
 
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
 a img{
     display: flex;
 }
@@ -40,6 +47,7 @@ ul{
     display: flex;
     justify-content: center;
     list-style: none;
+    align-items: flex-start;
 }
 
 li a {
