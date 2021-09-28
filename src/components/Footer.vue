@@ -79,7 +79,7 @@ export default {
 
 .footer-container{
     display: flex;
-    
+
 
     .footer-list{
         margin-right: 10px;
