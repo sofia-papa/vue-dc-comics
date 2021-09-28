@@ -36,6 +36,7 @@ export default {
 
 .color-bg{
     background-color: $mainColor;
+    padding-bottom: 50px;
 
     .button{
         margin-top: 20px;
@@ -44,6 +45,7 @@ export default {
         height: 10px;
         padding: 1rem 2rem;
         background-color: $primaryColor;
+        
     }
 }
 
@@ -71,7 +73,6 @@ export default {
     font-size: 0.8rem;
     margin: 0 150px;
     color: $whiteColor;
-
     
 }
 </style>

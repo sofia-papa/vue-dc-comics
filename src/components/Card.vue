@@ -28,12 +28,12 @@ export default {
 
 .cards.margin h5 {
         font-size: 0.6rem;
+   
 }
 
 .serie-box{
     height: 150px;
     width: 150px;
-   
     margin: 2px;
     
     img{
