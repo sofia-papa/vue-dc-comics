@@ -48,11 +48,15 @@ ul{
     justify-content: center;
     list-style: none;
     align-items: flex-start;
+    font-family: $listFont;
+    font-size: 1.1rem;
+    
 }
 
 li a {
     padding: 20px;
     text-decoration: none;
+    color: $mainColor;
     
 }
 
